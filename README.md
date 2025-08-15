@@ -235,7 +235,7 @@ By following this roadmap, you’ll gain:
 ---
 
 ## 📌 Author
-Created & maintained by **[Your Name](https://github.com/Sompa-Bhui)**
+Created & maintained by **[Sompa_Bhui](https://github.com/Sompa-Bhui)**
 
 ---
 
