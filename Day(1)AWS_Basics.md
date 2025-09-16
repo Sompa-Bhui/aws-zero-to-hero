@@ -1,8 +1,4 @@
-# ☁️ AWS Basics for Beginners
-
-This guide explains **Cloud Computing and AWS** in very simple English with real-life examples.  
-
----
+# ☁️ AWS Basics
 
 ## 1️⃣ What is Cloud?
 
